@@ -37,10 +37,10 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/rlesr._?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                    href=""
                     class="hover:underline"
                   >
-                    RENDRA
+                    ZAKY
                   </a>
                 </li>
               </ul>
